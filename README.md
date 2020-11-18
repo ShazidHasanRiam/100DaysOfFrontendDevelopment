@@ -1,2 +1,2 @@
-# 100DaysOfFrontendDevelopment
-100 days front-end development challenge for personal improvement.
+# 100DaysOfPython
+100 days Python challenge for personal improvement.
